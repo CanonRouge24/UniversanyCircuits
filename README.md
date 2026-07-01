@@ -17,8 +17,18 @@ Replace the GTNH (Dreamcraft) Any circuit textures with the Monifactory Universa
 * GTNHRefreshed Textures
 <img width="2040" height="428" alt="image" src="https://github.com/user-attachments/assets/4cfd4a33-e82a-4c10-8a94-4c5725353907" />
 
+---
+
+# Credit
+
+Special credit to [WithersChat](https://github.com/WithersChat) for creating the original ULV-UIV tier textures as part of the [Monifactory](https://github.com/ThePansmith/Monifactory) project.
+
+Other thanks to my friend Dragonz/soggy.man for help with putting together the initial pack.
+
+Discredit to my other friend idkac for not being relevant to this project whatsoever.
 
 ---
+
 # Installation
 
 This pack was meant for Gregtech New Horizons in particular, but it should work with the "Dreamcraft" mod's "any circuits" in general.
